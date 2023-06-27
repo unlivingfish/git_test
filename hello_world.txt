@@ -1,0 +1,4 @@
+x = "hello"
+
+if hello == world:
+    print(x)
